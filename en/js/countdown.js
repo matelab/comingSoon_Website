@@ -4,8 +4,8 @@
     thisEl = $(this);
     //array of custom settings
     var settings = {
-      date: "25-05-2020",
-      format: dd - mm - yyyy,
+      date: null,
+      format: null,
     };
     //append the settings array to options
     if (options) {
