@@ -50,17 +50,17 @@ body {
 }
 
 ::selection {
-  background: #149077;
+  background: #159e4a;
   color: #fff;
 }
 
 ::-moz-selection {
-  background: #149077;
+  background: #159e4a;
   color: #fff;
 }
 
 a {
-  color: #16a085;
+  color: #159e4a;
   text-decoration: none;
 }
 
@@ -368,7 +368,7 @@ button.formbutton:hover {
 }
 
 #footercont #socialmedia ul li a:hover {
-  color: #1abc9c;
+  color: #159e4a;
 }
 
 #footercont p.backtotop {
